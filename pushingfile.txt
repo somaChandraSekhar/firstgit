@@ -1,0 +1,1 @@
+i created txt file in local repository after cloning and trying to push it using commands
